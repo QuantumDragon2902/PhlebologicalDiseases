@@ -4,5 +4,4 @@
 
 # Документы
 * [Видение](Documents/Vision.md)
-* [Use-case](Documents/UseCase.png)
-* [Модель предметной области](Documents/Model.png)
+* [Use-case](Documents/UseCase.jpg)
