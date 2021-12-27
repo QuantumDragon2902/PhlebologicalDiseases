@@ -6,4 +6,6 @@
 * [Видение](Documents/Vision.md)
 * [Use-case](Documents/UseCase.jpg)
 * [Модель предметной области](Documents/Model.jpg)
+* [Интерфейс](Documents/Interface.jpg)
+* [Сценарий](Documents/Scenario.jpg)
 
