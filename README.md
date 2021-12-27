@@ -9,4 +9,5 @@
 * [Интерфейс](Documents/Interface.png)
 * [Сценарий](Documents/Scenario.png)
 * [Use-case v.2](Documents/Use.png)
+* [Диаграмма состояний](Documents/State.jpg)
 
