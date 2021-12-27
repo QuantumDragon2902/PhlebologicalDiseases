@@ -8,5 +8,4 @@
 * [Модель предметной области](Documents/Model.jpg)
 * [Интерфейс](Documents/Interface.png)
 * [Сценарий](Documents/Scenario.png)
-* [Use case](Documents/"Use case.png")
 
